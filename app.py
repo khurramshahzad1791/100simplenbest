@@ -1,7 +1,7 @@
 """
 MEXC ULTIMATE MULTI-TIMEFRAME SCANNER
-- Selects 100 coins across categories: top volume, high volume up, high volume down, near breakout
-- Shows signals as they are found, sorted by confidence
+- Selects 100 diverse coins based on volume & price change
+- Shows signals incrementally with toast notifications
 - Grades: A1 (≥80), A (60‑79), B (40‑59)
 - Full position planning with account balance & leverage
 """
